@@ -1,0 +1,50 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.parent{
+  width: 100%;
+  padding: 2em;
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(7,135,127,1) 0%, rgba(0,212,255,1) 100%);
+  color: aliceblue;
+}
+
+.container{
+  width: 60%;
+  margin: 0 auto;
+  padding: 2em;
+  /* max-width: 500px; */
+  /* background: rgb(238,174,202);
+  background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(133,110,43,0.9864320728291317) 0%); */
+}
+
+h1{
+  margin-bottom: 40px;
+}
+
+button{
+  padding: 2em 4em;
+  margin-top: 40px;
+  background: lightblue;
+  border: none;
+  cursor: pointer;
+  background: #219ebc;
+  color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
